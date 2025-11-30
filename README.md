@@ -2,6 +2,8 @@
 
 Streamlit-like Python DX on FastAPI + HTMX + Alpine with bento layouts, Polars-friendly data helpers, and HTMX tables/forms.
 
+Current version: v0.0.1
+
 ## Quickstart
 ```bash
 pip install -e .
