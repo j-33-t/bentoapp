@@ -1,0 +1,30 @@
+{
+  "version": "0.1.0",
+  "phases": [
+    {
+      "name": "foundation_dx_design",
+      "description": "Finalize API surface, routing, component contracts, perf SLOs, and validation rules.",
+      "status": "completed"
+    },
+    {
+      "name": "scaffold_package_cli",
+      "description": "Create pyproject, package skeleton, CLI, tests harness, and sample app scaffold.",
+      "status": "completed"
+    },
+    {
+      "name": "components_data_flows",
+      "description": "Implement bento grid/cards, Polars table pipeline, chart block, forms/upload flows with HTMX/Alpine.",
+      "status": "in_progress"
+    },
+    {
+      "name": "performance_reliability",
+      "description": "Enable perf defaults (uvloop/orjson/cache/compression), security/validation guards, and regression tests.",
+      "status": "not_started"
+    },
+    {
+      "name": "docs_release",
+      "description": "Write docs/recipes, polish CLI usage, versioning, and release checklist for PyPI.",
+      "status": "not_started"
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+[console_scripts]
+bentoapp = bentoapp.cli:app
