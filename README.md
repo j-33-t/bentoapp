@@ -1,6 +1,6 @@
 # bentoapp
 
-Streamlit-like Python DX on FastAPI + HTMX + Alpine with bento layouts, Polars-friendly data helpers, and HTMX tables/forms.
+Build fast, customizable data web apps with bento-like layouts
 
 Current version: v0.0.1
 
