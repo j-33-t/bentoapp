@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "bentoapp"
 version = "0.0.1"
-description = "Streamlit-like Python DX on FastAPI + HTMX + Alpine with bento layouts."
+description = "Build fast, customizable data web apps with bento layouts."
 readme = "README.md"
 requires-python = ">=3.10"
 authors = [{name = "Your Name"}]
