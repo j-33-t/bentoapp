@@ -1,1 +1,0 @@
-# Example apps package placeholder.
